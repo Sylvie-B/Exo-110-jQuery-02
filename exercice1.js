@@ -1,4 +1,4 @@
-$("h1").text("All about Unicorns");
+$("#page-heading").text("All about Unicorns");
 
 $(".animal").text("unicorns");
 
